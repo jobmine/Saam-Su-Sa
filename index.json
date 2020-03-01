@@ -1,0 +1,113 @@
+var data = {
+    "setA": [
+        {
+            "value": "呀",
+            "color": "#f00",
+            "text": "red"
+        },
+        {
+            "value": "百",
+            "color": "#0f0",
+            "text": "green"
+        },
+        {
+            "value": "畀",
+            "color": "#00f",
+            "text": "blue"
+        },
+        {
+            "value": "輯",
+            "color": "#0ff",
+            "text": "cyan"
+        },
+        {
+            "value": "出",
+            "color": "#f0f",
+            "text": "magenta"
+        },
+        {
+            "value": "速",
+            "color": "#ff0",
+            "text": "yellow"
+        },
+        {
+            "value": "大",
+            "color": "#000",
+            "text": "black"
+        }
+    ],
+    "setB": [
+        {
+            "value": "안",
+            "color": "#f00",
+            "text": "red"
+        },
+        {
+            "value": "버",
+            "color": "#0f0",
+            "text": "green"
+        },
+        {
+            "value": "찮",
+            "color": "#00f",
+            "text": "blue"
+        },
+        {
+            "value": "천",
+            "color": "#0ff",
+            "text": "cyan"
+        },
+        {
+            "value": "처",
+            "color": "#f0f",
+            "text": "magenta"
+        },
+        {
+            "value": "다",
+            "color": "#ff0",
+            "text": "yellow"
+        },
+        {
+            "value": "디",
+            "color": "#000",
+            "text": "black"
+        }
+    ],
+    "setC": [
+        {
+            "value": "は",
+            "color": "#f00",
+            "text": "red"
+        },
+        {
+            "value": "へ",
+            "color": "#0f0",
+            "text": "green"
+        },
+        {
+            "value": "ひ",
+            "color": "#00f",
+            "text": "blue"
+        },
+        {
+            "value": "ほ",
+            "color": "#0ff",
+            "text": "cyan"
+        },
+        {
+            "value": "い",
+            "color": "#f0f",
+            "text": "magenta"
+        },
+        {
+            "value": "か",
+            "color": "#ff0",
+            "text": "yellow"
+        },
+        {
+            "value": "け",
+            "color": "#000",
+            "text": "black"
+        }
+    ]
+};
