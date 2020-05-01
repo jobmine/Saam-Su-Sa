@@ -1,0 +1,1716 @@
+var data = {
+    "setA": [
+        {
+            "type": "CT",
+            "value": "呀",
+            "text": "aa",
+            "color": "#CF57FF",
+            "emoji": "😛"
+        },
+        {
+            "type": "CT",
+            "value": "百",
+            "text": "baak",
+            "color": "#C837A9",
+            "emoji": "📰"
+        },
+        {
+            "type": "CT",
+            "value": "畀",
+            "text": "bei",
+            "color": "#DD9D4B",
+            "emoji": "🌓"
+        },
+        {
+            "type": "CT",
+            "value": "輯",
+            "text": "cap",
+            "color": "#9C1308",
+            "emoji": "🚲"
+        },
+        {
+            "type": "CT",
+            "value": "出",
+            "text": "ceot",
+            "color": "#DA7A50",
+            "emoji": "🐣"
+        },
+        {
+            "type": "CT",
+            "value": "速",
+            "text": "cuk",
+            "color": "#4CB717",
+            "emoji": "🎹"
+        },
+        {
+            "type": "CT",
+            "value": "大",
+            "text": "daai",
+            "color": "#263684",
+            "emoji": "😥"
+        },
+        {
+            "type": "CT",
+            "value": "點",
+            "text": "dim",
+            "color": "#745777",
+            "emoji": "🐴"
+        },
+        {
+            "type": "CT",
+            "value": "東",
+            "text": "dung",
+            "color": "#78596C",
+            "emoji": "🐈"
+        },
+        {
+            "type": "CT",
+            "value": "發",
+            "text": "faat",
+            "color": "#93DBB4",
+            "emoji": "💼"
+        },
+        {
+            "type": "CT",
+            "value": "皿",
+            "text": "fing",
+            "color": "#94FFD1",
+            "emoji": "👨"
+        },
+        {
+            "type": "CT",
+            "value": "闊",
+            "text": "fut",
+            "color": "#FE5D21",
+            "emoji": "🐽"
+        },
+        {
+            "type": "CT",
+            "value": "甲",
+            "text": "gaap",
+            "color": "#E175FB",
+            "emoji": "💖"
+        },
+        {
+            "type": "CT",
+            "value": "交",
+            "text": "gaau",
+            "color": "#A8AA20",
+            "emoji": "🗄"
+        },
+        {
+            "type": "CT",
+            "value": "計",
+            "text": "gai",
+            "color": "#F44670",
+            "emoji": "😸"
+        },
+        {
+            "type": "CT",
+            "value": "見",
+            "text": "gin",
+            "color": "#5C7B7D",
+            "emoji": "👍"
+        },
+        {
+            "type": "CT",
+            "value": "喼",
+            "text": "gip",
+            "color": "#9DD883",
+            "emoji": "🔽"
+        },
+        {
+            "type": "CT",
+            "value": "割",
+            "text": "gok",
+            "color": "#BD7ACD",
+            "emoji": "🎉"
+        },
+        {
+            "type": "CT",
+            "value": "果",
+            "text": "gwo",
+            "color": "#56D59B",
+            "emoji": "🍅"
+        },
+        {
+            "type": "CT",
+            "value": "顧",
+            "text": "gwu",
+            "color": "#83DD07",
+            "emoji": "🍊"
+        },
+        {
+            "type": "CT",
+            "value": "閒",
+            "text": "haan",
+            "color": "#F44EF4",
+            "emoji": "📦"
+        },
+        {
+            "type": "CT",
+            "value": "鄉",
+            "text": "hoeng",
+            "color": "#5CDE44",
+            "emoji": "💓"
+        },
+        {
+            "type": "CT",
+            "value": "圏",
+            "text": "hyun",
+            "color": "#1C517A",
+            "emoji": "🐦"
+        },
+        {
+            "type": "CT",
+            "value": "人",
+            "text": "jan",
+            "color": "#04D411",
+            "emoji": "🐂"
+        },
+        {
+            "type": "CT",
+            "value": "意",
+            "text": "ji",
+            "color": "#8F5ACA",
+            "emoji": "🔻"
+        },
+        {
+            "type": "CT",
+            "value": "約",
+            "text": "joek",
+            "color": "#8BDA90",
+            "emoji": "📿"
+        },
+        {
+            "type": "CT",
+            "value": "揭",
+            "text": "kit",
+            "color": "#212D0A",
+            "emoji": "◽️"
+        },
+        {
+            "type": "CT",
+            "value": "廓",
+            "text": "kwok",
+            "color": "#72BA86",
+            "emoji": "🌈"
+        },
+        {
+            "type": "CT",
+            "value": "狂",
+            "text": "kwong",
+            "color": "#B0874D",
+            "emoji": "👉"
+        },
+        {
+            "type": "CT",
+            "value": "決",
+            "text": "kyut",
+            "color": "#0E5C29",
+            "emoji": "🕝"
+        },
+        {
+            "type": "CT",
+            "value": "冷",
+            "text": "laang",
+            "color": "#813884",
+            "emoji": "🍏"
+        },
+        {
+            "type": "CT",
+            "value": "叨",
+            "text": "lek",
+            "color": "#361ED3",
+            "emoji": "😱"
+        },
+        {
+            "type": "CT",
+            "value": "靚",
+            "text": "leng",
+            "color": "#D1E2DA",
+            "emoji": "🐱"
+        },
+        {
+            "type": "CT",
+            "value": "侶",
+            "text": "lui",
+            "color": "#D734F3",
+            "emoji": "📻"
+        },
+        {
+            "type": "CT",
+            "value": "乜",
+            "text": "mat",
+            "color": "#A464E7",
+            "emoji": "♐️"
+        },
+        {
+            "type": "CT",
+            "value": "咩",
+            "text": "me",
+            "color": "#FACF74",
+            "emoji": "🌥"
+        },
+        {
+            "type": "CT",
+            "value": "冇",
+            "text": "mou",
+            "color": "#890120",
+            "emoji": "😦"
+        },
+        {
+            "type": "CT",
+            "value": "門",
+            "text": "mun",
+            "color": "#5D5881",
+            "emoji": "💋"
+        },
+        {
+            "type": "CT",
+            "value": "諗",
+            "text": "nam",
+            "color": "#D2B189",
+            "emoji": "☔️"
+        },
+        {
+            "type": "CT",
+            "value": "女",
+            "text": "neoi",
+            "color": "#F977AD",
+            "emoji": "🔬"
+        },
+        {
+            "type": "CT",
+            "value": "五",
+            "text": "ng",
+            "color": "#34E007",
+            "emoji": "🐸"
+        },
+        {
+            "type": "CT",
+            "value": "哽",
+            "text": "ngang",
+            "color": "#1A12EE",
+            "emoji": "🎙"
+        },
+        {
+            "type": "CT",
+            "value": "鳥",
+            "text": "niu",
+            "color": "#A10B61",
+            "emoji": "💊"
+        },
+        {
+            "type": "CT",
+            "value": "靴",
+            "text": "oe",
+            "color": "#6ECB9D",
+            "emoji": "🌃"
+        },
+        {
+            "type": "CT",
+            "value": "愛",
+            "text": "oi",
+            "color": "#4560A0",
+            "emoji": "🛌"
+        },
+        {
+            "type": "CT",
+            "value": "安",
+            "text": "on",
+            "color": "#7CCDBA",
+            "emoji": "🎂"
+        },
+        {
+            "type": "CT",
+            "value": "三",
+            "text": "saam",
+            "color": "#63F79B",
+            "emoji": "🎇"
+        },
+        {
+            "type": "CT",
+            "value": "頭",
+            "text": "tau",
+            "color": "#5E42B6",
+            "emoji": "🎪"
+        },
+        {
+            "type": "CT",
+            "value": "盾",
+            "text": "teon",
+            "color": "#1B09B5",
+            "emoji": "📤"
+        },
+        {
+            "type": "CT",
+            "value": "域",
+            "text": "wik",
+            "color": "#413834",
+            "emoji": "📢"
+        },
+        {
+            "type": "CT",
+            "value": "則",
+            "text": "zak",
+            "color": "#FC67A9",
+            "emoji": "🚔"
+        },
+        {
+            "type": "CT",
+            "value": "住",
+            "text": "zyu",
+            "color": "#CB5322",
+            "emoji": "😴"
+        },
+        {
+            "type": "MD",
+            "value": "不",
+            "text": "bu",
+            "color": "#F28A69",
+            "emoji": "📈"
+        },
+        {
+            "type": "MD",
+            "value": "出",
+            "text": "chu",
+            "color": "#650E61",
+            "emoji": "🌖"
+        },
+        {
+            "type": "MD",
+            "value": "大",
+            "text": "da",
+            "color": "#57951E",
+            "emoji": "🔏"
+        },
+        {
+            "type": "MD",
+            "value": "到",
+            "text": "dao",
+            "color": "#9FF276",
+            "emoji": "↔️"
+        },
+        {
+            "type": "MD",
+            "value": "的",
+            "text": "de",
+            "color": "#7DD9FC",
+            "emoji": "💜"
+        },
+        {
+            "type": "MD",
+            "value": "得",
+            "text": "de",
+            "color": "#D52A02",
+            "emoji": "💭"
+        },
+        {
+            "type": "MD",
+            "value": "地",
+            "text": "di",
+            "color": "#B9035D",
+            "emoji": "🛬"
+        },
+        {
+            "type": "MD",
+            "value": "对",
+            "text": "dui",
+            "color": "#EB45B2",
+            "emoji": "😬"
+        },
+        {
+            "type": "MD",
+            "value": "而",
+            "text": "er",
+            "color": "#993568",
+            "emoji": "🐋"
+        },
+        {
+            "type": "MD",
+            "value": "发",
+            "text": "fa",
+            "color": "#DD8BBC",
+            "emoji": "♣️"
+        },
+        {
+            "type": "MD",
+            "value": "个",
+            "text": "ge",
+            "color": "#717BBD",
+            "emoji": "👯"
+        },
+        {
+            "type": "MD",
+            "value": "国",
+            "text": "guo",
+            "color": "#44DDC7",
+            "emoji": "😂"
+        },
+        {
+            "type": "MD",
+            "value": "过",
+            "text": "guo",
+            "color": "#103114",
+            "emoji": "🍾"
+        },
+        {
+            "type": "MD",
+            "value": "和",
+            "text": "he",
+            "color": "#09DD70",
+            "emoji": "🕴"
+        },
+        {
+            "type": "MD",
+            "value": "后",
+            "text": "hou",
+            "color": "#76678D",
+            "emoji": "🦀"
+        },
+        {
+            "type": "MD",
+            "value": "会",
+            "text": "hui",
+            "color": "#42802D",
+            "emoji": "🍃"
+        },
+        {
+            "type": "MD",
+            "value": "就",
+            "text": "jiu",
+            "color": "#D4AA91",
+            "emoji": "🗿"
+        },
+        {
+            "type": "MD",
+            "value": "可",
+            "text": "ke",
+            "color": "#F04BC8",
+            "emoji": "📁"
+        },
+        {
+            "type": "MD",
+            "value": "来",
+            "text": "lai",
+            "color": "#3A7A5A",
+            "emoji": "🚝"
+        },
+        {
+            "type": "MD",
+            "value": "了",
+            "text": "le",
+            "color": "#1383DB",
+            "emoji": "💦"
+        },
+        {
+            "type": "MD",
+            "value": "里",
+            "text": "li",
+            "color": "#D8E8CE",
+            "emoji": "🤔"
+        },
+        {
+            "type": "MD",
+            "value": "们",
+            "text": "men",
+            "color": "#FE6960",
+            "emoji": "💠"
+        },
+        {
+            "type": "MD",
+            "value": "那",
+            "text": "na",
+            "color": "#7E723F",
+            "emoji": "🍙"
+        },
+        {
+            "type": "MD",
+            "value": "能",
+            "text": "neng",
+            "color": "#E4D716",
+            "emoji": "🐮"
+        },
+        {
+            "type": "MD",
+            "value": "你",
+            "text": "ni",
+            "color": "#5494B3",
+            "emoji": "🌤"
+        },
+        {
+            "type": "MD",
+            "value": "年",
+            "text": "nian",
+            "color": "#A59408",
+            "emoji": "⏭"
+        },
+        {
+            "type": "MD",
+            "value": "人",
+            "text": "ren",
+            "color": "#209287",
+            "emoji": "🔥"
+        },
+        {
+            "type": "MD",
+            "value": "上",
+            "text": "shang",
+            "color": "#25B61D",
+            "emoji": "⌛️"
+        },
+        {
+            "type": "MD",
+            "value": "生",
+            "text": "sheng",
+            "color": "#091E4E",
+            "emoji": "📼"
+        },
+        {
+            "type": "MD",
+            "value": "是",
+            "text": "shi",
+            "color": "#E55F84",
+            "emoji": "🎆"
+        },
+        {
+            "type": "MD",
+            "value": "时",
+            "text": "shi",
+            "color": "#7E99D4",
+            "emoji": "🕯"
+        },
+        {
+            "type": "MD",
+            "value": "说",
+            "text": "shuo",
+            "color": "#208B49",
+            "emoji": "🚄"
+        },
+        {
+            "type": "MD",
+            "value": "它",
+            "text": "ta",
+            "color": "#90B976",
+            "emoji": "🎊"
+        },
+        {
+            "type": "MD",
+            "value": "为",
+            "text": "wei",
+            "color": "#154EFF",
+            "emoji": "🍲"
+        },
+        {
+            "type": "MD",
+            "value": "我",
+            "text": "wo",
+            "color": "#7F0.1E",
+            "emoji": "👊"
+        },
+        {
+            "type": "MD",
+            "value": "下",
+            "text": "xia",
+            "color": "#859D42",
+            "emoji": "🌠"
+        },
+        {
+            "type": "MD",
+            "value": "要",
+            "text": "yao",
+            "color": "#BE871C",
+            "emoji": "🌕"
+        },
+        {
+            "type": "MD",
+            "value": "也",
+            "text": "ye",
+            "color": "#1FF0CD",
+            "emoji": "👦"
+        },
+        {
+            "type": "MD",
+            "value": "一",
+            "text": "yi",
+            "color": "#06D1C9",
+            "emoji": "♍️"
+        },
+        {
+            "type": "MD",
+            "value": "以",
+            "text": "yi",
+            "color": "#942FC5",
+            "emoji": "🙍"
+        },
+        {
+            "type": "MD",
+            "value": "有",
+            "text": "you",
+            "color": "#C0D096",
+            "emoji": "🍯"
+        },
+        {
+            "type": "MD",
+            "value": "于",
+            "text": "yu",
+            "color": "#DA4667",
+            "emoji": "🍬"
+        },
+        {
+            "type": "MD",
+            "value": "在",
+            "text": "zai",
+            "color": "#BB2228",
+            "emoji": "💑"
+        },
+        {
+            "type": "MD",
+            "value": "这",
+            "text": "zhe",
+            "color": "#21A53F",
+            "emoji": "🌭"
+        },
+        {
+            "type": "MD",
+            "value": "着",
+            "text": "zhe",
+            "color": "#2959C2",
+            "emoji": "🛳"
+        },
+        {
+            "type": "MD",
+            "value": "之",
+            "text": "zhi",
+            "color": "#1DCC54",
+            "emoji": "🏦"
+        },
+        {
+            "type": "MD",
+            "value": "中",
+            "text": "zhong",
+            "color": "#CDCECD",
+            "emoji": "🐼"
+        },
+        {
+            "type": "MD",
+            "value": "子",
+            "text": "zi",
+            "color": "#D21F29",
+            "emoji": "🌳"
+        },
+        {
+            "type": "MD",
+            "value": "自",
+            "text": "zi",
+            "color": "#D2C579",
+            "emoji": "👡"
+        },
+        {
+            "type": "MD",
+            "value": "作",
+            "text": "zuo",
+            "color": "#E98BBB",
+            "emoji": "🔶"
+        }
+    ],
+    "setB": [
+        {
+            "type": "JP",
+            "value": "あ",
+            "text": "a",
+            "color": "#64F6BC",
+            "emoji": "👹"
+        },
+        {
+            "type": "JP",
+            "value": "ち",
+            "text": "chi",
+            "color": "#A040C1",
+            "emoji": "👄"
+        },
+        {
+            "type": "JP",
+            "value": "え",
+            "text": "e",
+            "color": "#61970F",
+            "emoji": "🏀"
+        },
+        {
+            "type": "JP",
+            "value": "ふ",
+            "text": "fu",
+            "color": "#F7A1E7",
+            "emoji": "🛠"
+        },
+        {
+            "type": "JP",
+            "value": "は",
+            "text": "ha",
+            "color": "#221C02",
+            "emoji": "🐎"
+        },
+        {
+            "type": "JP",
+            "value": "へ",
+            "text": "he",
+            "color": "#A78516",
+            "emoji": "🚀"
+        },
+        {
+            "type": "JP",
+            "value": "ひ",
+            "text": "hi",
+            "color": "#BC61CF",
+            "emoji": "🕘"
+        },
+        {
+            "type": "JP",
+            "value": "ほ",
+            "text": "ho",
+            "color": "#42E711",
+            "emoji": "🖋"
+        },
+        {
+            "type": "JP",
+            "value": "い",
+            "text": "i",
+            "color": "#DD9B8B",
+            "emoji": "🔵"
+        },
+        {
+            "type": "JP",
+            "value": "か",
+            "text": "ka",
+            "color": "#4D88B6",
+            "emoji": "🎻"
+        },
+        {
+            "type": "JP",
+            "value": "け",
+            "text": "ke",
+            "color": "#F42BDE",
+            "emoji": "🔰"
+        },
+        {
+            "type": "JP",
+            "value": "き",
+            "text": "ki",
+            "color": "#B4DEEA",
+            "emoji": "📠"
+        },
+        {
+            "type": "JP",
+            "value": "こ",
+            "text": "ko",
+            "color": "#7160B1",
+            "emoji": "🌂"
+        },
+        {
+            "type": "JP",
+            "value": "く",
+            "text": "ku",
+            "color": "#F6FD8E",
+            "emoji": "📒"
+        },
+        {
+            "type": "JP",
+            "value": "ま",
+            "text": "ma",
+            "color": "#C7771E",
+            "emoji": "🐚"
+        },
+        {
+            "type": "JP",
+            "value": "め",
+            "text": "me",
+            "color": "#907A36",
+            "emoji": "❄️"
+        },
+        {
+            "type": "JP",
+            "value": "み",
+            "text": "mi",
+            "color": "#55DC14",
+            "emoji": "🌧"
+        },
+        {
+            "type": "JP",
+            "value": "も",
+            "text": "mo",
+            "color": "#F6EA72",
+            "emoji": "🔊"
+        },
+        {
+            "type": "JP",
+            "value": "む",
+            "text": "mu",
+            "color": "#465A60",
+            "emoji": "😚"
+        },
+        {
+            "type": "JP",
+            "value": "ん",
+            "text": "n",
+            "color": "#F2ED2D",
+            "emoji": "♠️"
+        },
+        {
+            "type": "JP",
+            "value": "な",
+            "text": "na",
+            "color": "#6D3345",
+            "emoji": "⛓"
+        },
+        {
+            "type": "JP",
+            "value": "ね",
+            "text": "ne",
+            "color": "#E07DBC",
+            "emoji": "😎"
+        },
+        {
+            "type": "JP",
+            "value": "に",
+            "text": "ni",
+            "color": "#97C611",
+            "emoji": "🎯"
+        },
+        {
+            "type": "JP",
+            "value": "の",
+            "text": "no",
+            "color": "#71DE83",
+            "emoji": "♌️"
+        },
+        {
+            "type": "JP",
+            "value": "ぬ",
+            "text": "nu",
+            "color": "#754A50",
+            "emoji": "✳️"
+        },
+        {
+            "type": "JP",
+            "value": "お",
+            "text": "o",
+            "color": "#B742BE",
+            "emoji": "🚥"
+        },
+        {
+            "type": "JP",
+            "value": "ら",
+            "text": "ra",
+            "color": "#3D920D",
+            "emoji": "👪"
+        },
+        {
+            "type": "JP",
+            "value": "れ",
+            "text": "re",
+            "color": "#D6A3EE",
+            "emoji": "🚭"
+        },
+        {
+            "type": "JP",
+            "value": "り",
+            "text": "ri",
+            "color": "#A1BAD7",
+            "emoji": "🌿"
+        },
+        {
+            "type": "JP",
+            "value": "ろ",
+            "text": "ro",
+            "color": "#B6D92A",
+            "emoji": "✴️"
+        },
+        {
+            "type": "JP",
+            "value": "る",
+            "text": "ru",
+            "color": "#DE1D49",
+            "emoji": "🗓"
+        },
+        {
+            "type": "JP",
+            "value": "さ",
+            "text": "sa",
+            "color": "#0273E0",
+            "emoji": "👠"
+        },
+        {
+            "type": "JP",
+            "value": "せ",
+            "text": "se",
+            "color": "#BB77CA",
+            "emoji": "📔"
+        },
+        {
+            "type": "JP",
+            "value": "し",
+            "text": "shi",
+            "color": "#819C9C",
+            "emoji": "☮"
+        },
+        {
+            "type": "JP",
+            "value": "そ",
+            "text": "so",
+            "color": "#20C50F",
+            "emoji": "🙉"
+        },
+        {
+            "type": "JP",
+            "value": "す",
+            "text": "su",
+            "color": "#8773C0",
+            "emoji": "📇"
+        },
+        {
+            "type": "JP",
+            "value": "た",
+            "text": "ta",
+            "color": "#9562B4",
+            "emoji": "😼"
+        },
+        {
+            "type": "JP",
+            "value": "て",
+            "text": "te",
+            "color": "#AEDAD0",
+            "emoji": "🤐"
+        },
+        {
+            "type": "JP",
+            "value": "と",
+            "text": "to",
+            "color": "#91248E",
+            "emoji": "🖖"
+        },
+        {
+            "type": "JP",
+            "value": "つ",
+            "text": "tsu",
+            "color": "#EFBAEA",
+            "emoji": "🔁"
+        },
+        {
+            "type": "JP",
+            "value": "う",
+            "text": "u",
+            "color": "#139D61",
+            "emoji": "📩"
+        },
+        {
+            "type": "JP",
+            "value": "わ",
+            "text": "wa",
+            "color": "#105091",
+            "emoji": "🎫"
+        },
+        {
+            "type": "JP",
+            "value": "を",
+            "text": "wo",
+            "color": "#EB0548",
+            "emoji": "🍦"
+        },
+        {
+            "type": "JP",
+            "value": "や",
+            "text": "ya",
+            "color": "#5F8274",
+            "emoji": "🕉"
+        },
+        {
+            "type": "JP",
+            "value": "よ",
+            "text": "yo",
+            "color": "#A49C0C",
+            "emoji": "💤"
+        },
+        {
+            "type": "KT",
+            "value": "ア",
+            "text": "a",
+            "color": "#896543",
+            "emoji": "🔯"
+        },
+        {
+            "type": "KT",
+            "value": "エ",
+            "text": "e",
+            "color": "#9622D1",
+            "emoji": "☕️"
+        },
+        {
+            "type": "KT",
+            "value": "ハ",
+            "text": "ha",
+            "color": "#FA58FD",
+            "emoji": "🤒"
+        },
+        {
+            "type": "KT",
+            "value": "ヒ",
+            "text": "hi",
+            "color": "#B8BED8",
+            "emoji": "🚸"
+        },
+        {
+            "type": "KT",
+            "value": "ホ",
+            "text": "ho",
+            "color": "#07175D",
+            "emoji": "🎷"
+        },
+        {
+            "type": "KT",
+            "value": "フ",
+            "text": "hu",
+            "color": "#5CD207",
+            "emoji": "🐙"
+        },
+        {
+            "type": "KT",
+            "value": "イ",
+            "text": "i",
+            "color": "#7AE1B0",
+            "emoji": "🕋"
+        },
+        {
+            "type": "KT",
+            "value": "カ",
+            "text": "ka",
+            "color": "#02A902",
+            "emoji": "🕍"
+        },
+        {
+            "type": "KT",
+            "value": "ケ",
+            "text": "ke",
+            "color": "#D40176",
+            "emoji": "🛍"
+        },
+        {
+            "type": "KT",
+            "value": "キ",
+            "text": "ki",
+            "color": "#B5C539",
+            "emoji": "🐤"
+        },
+        {
+            "type": "KT",
+            "value": "コ",
+            "text": "ko",
+            "color": "#26F8B3",
+            "emoji": "😺"
+        },
+        {
+            "type": "KT",
+            "value": "ク",
+            "text": "ku",
+            "color": "#A010D2",
+            "emoji": "🌜"
+        },
+        {
+            "type": "KT",
+            "value": "マ",
+            "text": "ma",
+            "color": "#2C70D1",
+            "emoji": "🏘"
+        },
+        {
+            "type": "KT",
+            "value": "メ",
+            "text": "me",
+            "color": "#B2A92C",
+            "emoji": "🌉"
+        },
+        {
+            "type": "KT",
+            "value": "ミ",
+            "text": "mi",
+            "color": "#670DC3",
+            "emoji": "🌡"
+        },
+        {
+            "type": "KT",
+            "value": "モ",
+            "text": "mo",
+            "color": "#07448F",
+            "emoji": "⚱"
+        },
+        {
+            "type": "KT",
+            "value": "ム",
+            "text": "mu",
+            "color": "#2E836E",
+            "emoji": "✂️"
+        },
+        {
+            "type": "KT",
+            "value": "ン",
+            "text": "n",
+            "color": "#94614D",
+            "emoji": "🎼"
+        },
+        {
+            "type": "KT",
+            "value": "ナ",
+            "text": "na",
+            "color": "#B75152",
+            "emoji": "🍥"
+        },
+        {
+            "type": "KT",
+            "value": "ネ",
+            "text": "ne",
+            "color": "#3A60EE",
+            "emoji": "🎭"
+        },
+        {
+            "type": "KT",
+            "value": "ニ",
+            "text": "ni",
+            "color": "#964E5C",
+            "emoji": "👏"
+        },
+        {
+            "type": "KT",
+            "value": "ノ",
+            "text": "no",
+            "color": "#EB3D8D",
+            "emoji": "😠"
+        },
+        {
+            "type": "KT",
+            "value": "ヌ",
+            "text": "nu",
+            "color": "#175C0F",
+            "emoji": "🍟"
+        },
+        {
+            "type": "KT",
+            "value": "オ",
+            "text": "o",
+            "color": "#F41D7C",
+            "emoji": "🌬"
+        },
+        {
+            "type": "KT",
+            "value": "ラ",
+            "text": "ra",
+            "color": "#909BA6",
+            "emoji": "🗻"
+        },
+        {
+            "type": "KT",
+            "value": "レ",
+            "text": "re",
+            "color": "#607AF6",
+            "emoji": "🚡"
+        },
+        {
+            "type": "KT",
+            "value": "リ",
+            "text": "ri",
+            "color": "#69E4A9",
+            "emoji": "🎋"
+        },
+        {
+            "type": "KT",
+            "value": "ロ",
+            "text": "ro",
+            "color": "#0EECD9",
+            "emoji": "⛄️"
+        },
+        {
+            "type": "KT",
+            "value": "ル",
+            "text": "ru",
+            "color": "#041D89",
+            "emoji": "⚓️"
+        },
+        {
+            "type": "KT",
+            "value": "サ",
+            "text": "sa",
+            "color": "#E26CED",
+            "emoji": "📶"
+        },
+        {
+            "type": "KT",
+            "value": "セ",
+            "text": "se",
+            "color": "#F841A2",
+            "emoji": "🦂"
+        },
+        {
+            "type": "KT",
+            "value": "シ",
+            "text": "si",
+            "color": "#363825",
+            "emoji": "🙆"
+        },
+        {
+            "type": "KT",
+            "value": "ソ",
+            "text": "so",
+            "color": "#F0405F",
+            "emoji": "🎒"
+        },
+        {
+            "type": "KT",
+            "value": "ス",
+            "text": "su",
+            "color": "#8537D9",
+            "emoji": "🔨"
+        },
+        {
+            "type": "KT",
+            "value": "タ",
+            "text": "ta",
+            "color": "#2B5208",
+            "emoji": "📅"
+        },
+        {
+            "type": "KT",
+            "value": "テ",
+            "text": "te",
+            "color": "#B5192A",
+            "emoji": "👛"
+        },
+        {
+            "type": "KT",
+            "value": "チ",
+            "text": "ti",
+            "color": "#5A7EEE",
+            "emoji": "🐛"
+        },
+        {
+            "type": "KT",
+            "value": "ト",
+            "text": "to",
+            "color": "#EC8A11",
+            "emoji": "🕵"
+        },
+        {
+            "type": "KT",
+            "value": "ツ",
+            "text": "tu",
+            "color": "#1AD718",
+            "emoji": "🖲"
+        },
+        {
+            "type": "KT",
+            "value": "ウ",
+            "text": "u",
+            "color": "#DACBEC",
+            "emoji": "🌐"
+        },
+        {
+            "type": "KT",
+            "value": "ワ",
+            "text": "wa",
+            "color": "#24D3FE",
+            "emoji": "📌"
+        },
+        {
+            "type": "KT",
+            "value": "ヱ",
+            "text": "we",
+            "color": "#68E919",
+            "emoji": "🕣"
+        },
+        {
+            "type": "KT",
+            "value": "ヰ",
+            "text": "wi",
+            "color": "#4F9047",
+            "emoji": "🎮"
+        },
+        {
+            "type": "KT",
+            "value": "ヲ",
+            "text": "wo",
+            "color": "#4529F7",
+            "emoji": "📚"
+        },
+        {
+            "type": "KT",
+            "value": "ヤ",
+            "text": "ya",
+            "color": "#CAE7CE",
+            "emoji": "🔎"
+        },
+        {
+            "type": "KT",
+            "value": "ヨ",
+            "text": "yo",
+            "color": "#74FE96",
+            "emoji": "🎚"
+        },
+        {
+            "type": "KT",
+            "value": "ユ",
+            "text": "yu",
+            "color": "#38FB94",
+            "emoji": "⛱"
+        }
+    ],
+    "SetC": [
+        {
+            "type": "JP",
+            "value": "ゆ",
+            "text": "yu",
+            "color": "#4F314C",
+            "emoji": "🏹"
+        },
+        {
+            "type": "KR",
+            "value": "아",
+            "text": "a",
+            "color": "#36CF04",
+            "emoji": "🖱"
+        },
+        {
+            "type": "KR",
+            "value": "안",
+            "text": "an",
+            "color": "#C7F07E",
+            "emoji": "💶"
+        },
+        {
+            "type": "KR",
+            "value": "버",
+            "text": "bu",
+            "color": "#1CCCC0",
+            "emoji": "⛑"
+        },
+        {
+            "type": "KR",
+            "value": "찮",
+            "text": "chan",
+            "color": "#868275",
+            "emoji": "🖍"
+        },
+        {
+            "type": "KR",
+            "value": "천",
+            "text": "cheon",
+            "color": "#30D8EC",
+            "emoji": "⛩"
+        },
+        {
+            "type": "KR",
+            "value": "처",
+            "text": "chu",
+            "color": "#AF9CB3",
+            "emoji": "🛰"
+        },
+        {
+            "type": "KR",
+            "value": "다",
+            "text": "da",
+            "color": "#49A718",
+            "emoji": "😭"
+        },
+        {
+            "type": "KR",
+            "value": "디",
+            "text": "di",
+            "color": "#9B09C2",
+            "emoji": "🏥"
+        },
+        {
+            "type": "KR",
+            "value": "에",
+            "text": "e",
+            "color": "#AC6E1F",
+            "emoji": "🏸"
+        },
+        {
+            "type": "KR",
+            "value": "어",
+            "text": "eo",
+            "color": "#349E9F",
+            "emoji": "⌚️"
+        },
+        {
+            "type": "KR",
+            "value": "가",
+            "text": "ga",
+            "color": "#8A1FA1",
+            "emoji": "💳"
+        },
+        {
+            "type": "KR",
+            "value": "감",
+            "text": "gam",
+            "color": "#A6DCB9",
+            "emoji": "🐗"
+        },
+        {
+            "type": "KR",
+            "value": "기",
+            "text": "gi",
+            "color": "#497665",
+            "emoji": "👗"
+        },
+        {
+            "type": "KR",
+            "value": "괜",
+            "text": "gwaen",
+            "color": "#76BB8D",
+            "emoji": "📬"
+        },
+        {
+            "type": "KR",
+            "value": "계",
+            "text": "gye",
+            "color": "#547218",
+            "emoji": "💵"
+        },
+        {
+            "type": "KR",
+            "value": "하",
+            "text": "ha",
+            "color": "#09471A",
+            "emoji": "🙃"
+        },
+        {
+            "type": "KR",
+            "value": "해",
+            "text": "hae",
+            "color": "#6C62F0",
+            "emoji": "🏨"
+        },
+        {
+            "type": "KR",
+            "value": "합",
+            "text": "ham",
+            "color": "#02B66D",
+            "emoji": "🏩"
+        },
+        {
+            "type": "KR",
+            "value": "호",
+            "text": "ho",
+            "color": "#DA6079",
+            "emoji": "📆"
+        },
+        {
+            "type": "KR",
+            "value": "화",
+            "text": "hwa",
+            "color": "#05E357",
+            "emoji": "🌴"
+        },
+        {
+            "type": "KR",
+            "value": "있",
+            "text": "i",
+            "color": "#3ADD8B",
+            "emoji": "😯"
+        },
+        {
+            "type": "KR",
+            "value": "자",
+            "text": "ja",
+            "color": "#7FF8C9",
+            "emoji": "🔒"
+        },
+        {
+            "type": "KR",
+            "value": "잘",
+            "text": "jal",
+            "color": "#050566",
+            "emoji": "🍢"
+        },
+        {
+            "type": "KR",
+            "value": "잠",
+            "text": "jam",
+            "color": "#59F8C5",
+            "emoji": "🍸"
+        },
+        {
+            "type": "KR",
+            "value": "장",
+            "text": "jang",
+            "color": "#760617",
+            "emoji": "📲"
+        },
+        {
+            "type": "KR",
+            "value": "저",
+            "text": "jeo",
+            "color": "#1E07B0",
+            "emoji": "✏️"
+        },
+        {
+            "type": "KR",
+            "value": "주",
+            "text": "ju",
+            "color": "#E038B1",
+            "emoji": "🍭"
+        },
+        {
+            "type": "KR",
+            "value": "코",
+            "text": "ko",
+            "color": "#24F0C8",
+            "emoji": "🐨"
+        },
+        {
+            "type": "KR",
+            "value": "라",
+            "text": "la",
+            "color": "#9B737C",
+            "emoji": "🐵"
+        },
+        {
+            "type": "KR",
+            "value": "례",
+            "text": "lye",
+            "color": "#59666E",
+            "emoji": "🐝"
+        },
+        {
+            "type": "KR",
+            "value": "마",
+            "text": "ma",
+            "color": "#B049BF",
+            "emoji": "🏗"
+        },
+        {
+            "type": "KR",
+            "value": "말",
+            "text": "mal",
+            "color": "#110.18",
+            "emoji": "😖"
+        },
+        {
+            "type": "KR",
+            "value": "만",
+            "text": "man",
+            "color": "#C60215",
+            "emoji": "📄"
+        },
+        {
+            "type": "KR",
+            "value": "몰",
+            "text": "mol",
+            "color": "#8D4431",
+            "emoji": "🐀"
+        },
+        {
+            "type": "KR",
+            "value": "못",
+            "text": "mot",
+            "color": "#81F0B6",
+            "emoji": "🍘"
+        },
+        {
+            "type": "KR",
+            "value": "나",
+            "text": "na",
+            "color": "#CD8745",
+            "emoji": "🎎"
+        },
+        {
+            "type": "KR",
+            "value": "니",
+            "text": "ni",
+            "color": "#C3B1A2",
+            "emoji": "💡"
+        },
+        {
+            "type": "KR",
+            "value": "녕",
+            "text": "nyeong",
+            "color": "#E6F862",
+            "emoji": "🛫"
+        },
+        {
+            "type": "KR",
+            "value": "포",
+            "text": "po",
+            "color": "#F11F26",
+            "emoji": "⛸"
+        },
+        {
+            "type": "KR",
+            "value": "은",
+            "text": "reun",
+            "color": "#F36E68",
+            "emoji": "🍜"
+        },
+        {
+            "type": "KR",
+            "value": "사",
+            "text": "sa",
+            "color": "#C87DB8",
+            "emoji": "🤗"
+        },
+        {
+            "type": "KR",
+            "value": "세",
+            "text": "se",
+            "color": "#82BE39",
+            "emoji": "📝"
+        },
+        {
+            "type": "KR",
+            "value": "시",
+            "text": "si",
+            "color": "#61F3AE",
+            "emoji": "⛈"
+        },
+        {
+            "type": "KR",
+            "value": "실",
+            "text": "sil",
+            "color": "#028E60",
+            "emoji": "🛋"
+        },
+        {
+            "type": "KR",
+            "value": "어",
+            "text": "sseo",
+            "color": "#CF173F",
+            "emoji": "🏐"
+        },
+        {
+            "type": "KR",
+            "value": "서",
+            "text": "su",
+            "color": "#262BC6",
+            "emoji": "♻️"
+        },
+        {
+            "type": "KR",
+            "value": "토",
+            "text": "to",
+            "color": "#D0D8CB",
+            "emoji": "🚿"
+        },
+        {
+            "type": "KR",
+            "value": "어",
+            "text": "uh",
+            "color": "#E9B3C3",
+            "emoji": "😙"
+        },
+        {
+            "type": "KR",
+            "value": "요",
+            "text": "yo",
+            "color": "#DA3FC7",
+            "emoji": "📓"
+        }
+    ]
+}

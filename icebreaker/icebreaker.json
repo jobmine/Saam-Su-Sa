@@ -1,0 +1,1228 @@
+var data = {
+    "setA": [
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🦸‍♀️"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🦸‍♂️"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🦹‍♀️"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🦹‍♂️"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👮‍♀️"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👮‍♂️"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👷‍♀️"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👷‍♂️"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "💂‍♀️"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "💂‍♂️"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🕵️‍♀️"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🕵️‍♂️"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👩‍⚕️"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👨‍⚕️"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👩‍🌾"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👨‍🌾"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👩‍🍳"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👨‍🍳"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👩‍🎓"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👨‍🎓"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👩‍🎤"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👨‍🎤"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👩‍🏫"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👨‍🏫"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👩‍🏭"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👨‍🏭"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👩‍💻"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👨‍💻"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👩‍💼"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👨‍💼"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👩‍🔧"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👨‍🔧"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👩‍🔬"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👨‍🔬"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👩‍🎨"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👨‍🎨"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👩‍🚒"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👨‍🚒"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👩‍✈️"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👨‍✈️"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👩‍🚀"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👨‍🚀"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👩‍⚖️"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👨‍⚖️"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👰"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🤵"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👸"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🤴"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🤶"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🎅"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🧙‍♀️"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🧙‍♂️"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🧝‍♀️"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🧝‍♂️"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🧛‍♀️"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🧛‍♂️"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🧟‍♀️"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🧟‍♂️"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🧞‍♀️"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🧞‍♂️"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🧜‍♀️"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🧜‍♂️"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🧚‍♀️"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🧚‍♂️"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "👼"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🐶"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🐱"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🐭"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🐹"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🐰"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🦊"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🦝"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🐻"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🐼"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🦘"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🦡"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🐨"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🐯"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🦁"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🐮"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🐷"
+        },
+        {
+            "type": "PPL",
+            "color": "#30B353",
+            "emoji": "🐸"
+        }
+    ],
+    "setB": [
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇦🇷"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇦🇺"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇦🇹"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇧🇭"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇧🇪"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇧🇹"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇧🇷"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇨🇦"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇰🇾"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇹🇩"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇨🇱"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇨🇳"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇨🇰"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇨🇮"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇨🇺"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇨🇾"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇨🇿"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇩🇰"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇪🇺"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇫🇰"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇫🇮"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇫🇷"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇬🇪"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇩🇪"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇬🇭"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇬🇮"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇬🇷"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇭🇰"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇭🇺"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇮🇩"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇮🇶"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇮🇪"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇮🇱"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇮🇹"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇯🇵"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇰🇼"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇱🇷"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇲🇴"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇲🇬"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇲🇾"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇲🇱"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇲🇷"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇲🇺"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇾🇹"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇲🇽"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇲🇨"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇲🇦"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇲🇿"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇲🇲"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇳🇦"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇳🇵"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇳🇱"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇳🇿"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇰🇵"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇲🇵"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇳🇴"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇴🇲"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇵🇰"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇵🇸"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇵🇪"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇵🇭"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇵🇱"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇵🇹"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇵🇷"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇷🇺"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇸🇦"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇸🇬"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇿🇦"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇰🇷"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇪🇸"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇸🇩"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇸🇪"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇨🇭"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇸🇾"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇹🇼"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇹🇭"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇹🇳"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇹🇷"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇬🇧"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇺🇳"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇺🇸"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇺🇾"
+        },
+        {
+            "type": "FLAG",
+            "color": "#C259A2",
+            "emoji": "🇻🇳"
+        }
+    ],
+    "setC": [
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "⚽️"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🏀"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🏈"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "⚾️"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🥎"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🏐"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🏉"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🎾"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🥏"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🎱"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🏓"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🏸"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🥅"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🏒"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🏑"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🥍"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🏏"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "⛳️"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🏹"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🎣"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🥊"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🥋"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🎽"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "⛸"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🥌"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🛷"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🛹"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🎿"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "⛷"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🏂"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🏋️‍♀️"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🎭"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🎨"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🎬"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🎤"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🎧"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🎼"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🎹"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🥁"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🎷"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🎺"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🎸"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🎻"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🎲"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🧩"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "♟"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🏎"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🚓"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🚑"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🚒"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🚐"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🚚"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🚜"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🛴"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🚲"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🚀"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🚡"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🚠"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🚟"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🚃"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🏤"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🏥"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🏦"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🏨"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🏪"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🏫"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🏩"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "💒"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🏛"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "⛪️"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🕌"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🕍"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🧇"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🧈"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🚗"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🚕"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🚙"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🚌"
+        },
+        {
+            "type": "ACTION",
+            "color": "#4172BA",
+            "emoji": "🚎"
+        }
+    ]
+}

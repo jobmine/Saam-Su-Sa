@@ -1,14 +1,24 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Saam-Su-Sa Alpha</title>
+	<title>Saam-Su-Sa</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0">
 	<link rel="stylesheet" type="text/css" href="index.css">
 </head>
-<body>
-	<div class="ctn"></div>
-	<script type="text/javascript" src="index.json"></script>
+<body class="noselect">
+	<div id="instruction"><strong>Welcome to Saam-Su-Sa!</strong><br><br>There are hundreds of different characters for you to explore, no matter it's Japanese, Korean or Chinese, each character was hand-picked and crafted by a native-language-speaking real human.<br>The steps are easy - Watch all bubbles - touch on one - count to three. That's it!<p id="ok">Ready to be Inspired (<span id="countdown">20</span> sec<span id="plural">s</span>)</p></div>
+	<div id="result" >
+		<li class="text"></li>
+		<li class="value small"></li>
+		<li class="text2 small hidden"></li>
+		<li class="emoji hidden"></li>
+	</div>
+	<img src="restart.svg" class="restart">
+	<div class="ctn "></div>
+	<script type="text/javascript" src="sss.json"></script>
 	<script type="text/javascript" src="index.js"></script>
+	<script src="snowstorm-min.js"></script>
+
 </body>
 </html>
